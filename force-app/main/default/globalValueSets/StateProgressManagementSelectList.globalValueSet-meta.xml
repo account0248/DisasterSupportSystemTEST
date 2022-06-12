@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>収受</fullName>
+        <default>true</default>
+        <label>収受</label>
+    </customValue>
+    <customValue>
+        <fullName>審査NG</fullName>
+        <default>false</default>
+        <label>審査NG</label>
+    </customValue>
+    <customValue>
+        <fullName>審査OK</fullName>
+        <default>false</default>
+        <label>審査OK</label>
+    </customValue>
+    <customValue>
+        <fullName>支給済</fullName>
+        <default>false</default>
+        <label>支給済</label>
+    </customValue>
+    <masterLabel>進捗状況管理選択リスト</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>
